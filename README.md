@@ -1,1 +1,3 @@
-# machine-learning-covid19-python-forecast
+# Análise preditiva de casos confirmados da COVID-19 no Brasil
+### O modelo foi criado utilizando as seguintes bibliotecas: Pandas, Numpy, Plotly, Matplotlib, StatsModels e Arima, todas com o intuito de facilitar a prática das técnicas de previsão.
+### Além disso, utilizei conceitos de ETL, recursos do python como: criação de data-frames e objetos; definição de funções; lambda; funções condicionais e prints/plots.
