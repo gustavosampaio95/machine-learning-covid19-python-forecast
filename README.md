@@ -1,4 +1,4 @@
 # Análise preditiva de casos confirmados da COVID-19 no Brasil
 ### O modelo foi criado utilizando as seguintes bibliotecas: Pandas, Numpy, Plotly, Matplotlib, StatsModels e Arima, todas com o intuito de facilitar a prática das técnicas de previsão.
 ### Além disso, utilizei conceitos de ETL e recursos do python como: criação de data-frames e objetos; definição de funções; lambda; funções condicionais e prints/plots.
-### Resolvi commitar este estudo agora, mesmo depois de um bom tempo, como forma de estudo e para confirmar (podemos ver isso na parte final) que a previsão estava próxima ao real, pois eu não tinha realizado tal tarefa no período analisado, após a predição, que provou ser bem confiável.
+### Resolvi "comitar" este caso agora, mesmo depois de um bom tempo, como forma de estudo e para confirmar (podemos ver isso na parte final) que a previsão estava próxima ao real, pois eu não tinha realizado tal tarefa no período analisado, após a predição, que provou ser bem confiável.
